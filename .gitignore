@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Editor
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entorno
+.env
+
